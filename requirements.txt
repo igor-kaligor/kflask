@@ -17,7 +17,6 @@ evdev==1.4.0
 Flask==2.0.2
 Flask-Cors==3.0.10
 gunicorn==20.1.0
-hidpidaemon==18.4.6
 html5lib==1.1
 httplib2==0.18.1
 idna==2.10
