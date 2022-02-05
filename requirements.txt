@@ -50,7 +50,6 @@ pymacaroons==0.13.0
 PyNaCl==1.4.0
 pyRFC3339==1.1
 pyrsistent==0.15.5
-python-apt===2.2.1pop0-1628521831-21.10-5dbe6cf
 python-debian===0.1.39ubuntu1
 python-dotenv==0.15.0
 python-magic==0.4.20
